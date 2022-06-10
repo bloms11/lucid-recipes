@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/57482590/172958631-b5283ba4-6ccf-4d92-
 Clone the project
 
 ```bash
-  git clone --single-branch -b "branch-name" https://link-to-project
+  git clone https://link-to-project
 ```
 .env configuration
 
