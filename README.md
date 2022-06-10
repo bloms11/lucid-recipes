@@ -23,7 +23,7 @@ Clone the project
 .env configuration
 
 - Create a .env file in the root directory
-- Add the folling KEY and YOUR VALUES
+- Add the KEY and YOUR VALUES
 ```bash
   REACT_APP_API_KEY=
 ```
